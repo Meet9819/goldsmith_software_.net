@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldSmithApplication", "GoldSmithApplication\GoldSmithApplication.csproj", "{2B03D784-A164-4ACC-8901-6EA0784A653C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Goldsmith", "..\..\..\..\Desktop\Goldsmith\Goldsmith.vdproj", "{3AF0DAB4-AE96-4D15-A5B9-A212A75DC2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B03D784-A164-4ACC-8901-6EA0784A653C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B03D784-A164-4ACC-8901-6EA0784A653C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B03D784-A164-4ACC-8901-6EA0784A653C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B03D784-A164-4ACC-8901-6EA0784A653C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF0DAB4-AE96-4D15-A5B9-A212A75DC2FF}.Debug|Any CPU.ActiveCfg = Debug
+		{3AF0DAB4-AE96-4D15-A5B9-A212A75DC2FF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

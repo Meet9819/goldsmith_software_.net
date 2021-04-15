@@ -1,0 +1,15 @@
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\bin\Release\GoldSmithApplication.exe.config
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\bin\Release\GoldSmithApplication.exe
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\bin\Release\GoldSmithApplication.pdb
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\bin\Release\MySql.Data.dll
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\bin\Release\MySql.Data.xml
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.Addnewname.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.Form1.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.InwardOutward.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.ItemMaster.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.Properties.Resources.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.Successpage.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.Userdetails.resources
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.csproj.GenerateResource.Cache
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.exe
+C:\Users\Sumit\documents\visual studio 2015\Projects\GoldSmithApplication\GoldSmithApplication\obj\Release\GoldSmithApplication.pdb
